@@ -59,15 +59,9 @@ p {
     background-position: center;
 }
 
-/* combine 63 - 71 */
-.float-left {
+.float-left, .float-right {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
